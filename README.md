@@ -6,11 +6,7 @@ I'm .Net software engineer from Moscow.
 
 - 🔭 I’m currently working on [Insight.Common](https://github.com/InsightAppDev/Insight.Common/tree/master/src) and [Insight.TelegramBot](https://github.com/InsightAppDev/Insight.TelegramBot)
 - 🌱 I’m currently learning:
-  - Event Sourcing
-  - Rich Domain Model
-  - React.js
   - React Native
-  - Azure
 - 🤔 I’m looking for help with Event Sourcing
 - 💬 Ask me about anything =)
 - 📫 How to reach me: [Telegram](https://t.me/insightappdev), [Email](insight.appdev@gmail.com)
