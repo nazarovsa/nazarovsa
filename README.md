@@ -7,7 +7,7 @@ Currently, I'm learning mobile development with react native.
 
 <h2 align="center">Facts:</h2>
 
-- 🔭 I’m currently working on [Insight.Common](https://github.com/InsightAppDev/Insight.Common/tree/master/src) and [Insight.TelegramBot](https://github.com/InsightAppDev/Insight.TelegramBot)
+<!-- 🔭 I’m currently working on [Insight.Common](https://github.com/InsightAppDev/Insight.Common/tree/master/src) and [Insight.TelegramBot](https://github.com/InsightAppDev/Insight.TelegramBot) -->
 - 🌱 I’m currently learning:
   - React Native
   - AWS Cloud
