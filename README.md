@@ -13,7 +13,7 @@ Currently, I'm learning mobile development with react native.
   - AWS Cloud
 - 🤔 I’m looking for help with Event Sourcing
 - 💬 Ask me about anything =)
-- 📫 How to reach me: [Telegram](https://t.me/sanzarov), [Email](insight.appdev@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/sanazarov), [Email](insight.appdev@gmail.com)
 - 😄 Pronouns: he/him
 <!-- ⚡ Fun fact: ...-->
 <!-- 👯 I’m looking to collaborate on  -->
