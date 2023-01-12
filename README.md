@@ -17,12 +17,3 @@ Currently, I'm learning mobile development with react native.
 - 😄 Pronouns: he/him
 <!-- ⚡ Fun fact: ...-->
 <!-- 👯 I’m looking to collaborate on  -->
-
-<div align="center">
-    <span>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nazarovsa&count_private=trye&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" height="140px" />
-    </span>
-    <span>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarovsa&layout=compact&hide=html,css&theme=dark&bg_color=0d1117&border_color=30363d" height="140px" />
-    </span>
-</div>
