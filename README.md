@@ -3,9 +3,11 @@
 I'm .NET software engineer from Moscow.  
 I'm always open to collaboration, so feel free to text me. I'm interested in fintech and gambling projects generally, but you can offer any domain.  
 I'm trying to evolve my skills and always learning something new. My hobby is writing telegram bots, for instance [Noty](https://t.me/N8tyBot).  
-Currently, I'm leading team of dotnet engineers and teaching students at indoor programming school.
+Currently, I'm leading team of dotnet engineers and teaching students at indoor programming school.  
+<h2 align="center">Mentorship</h2>
+I'm mentoring right now. You can find details in Russian at <a href="https://nazarovsa.notion.site/Backend-C-NET-4d1bba34fb6648c08c9963e104779666">notion</a>.
 
-<h2 align="center">Facts:</h2>
+<h2 align="center">Facts</h2>
 
 - 💬 Ask me about anything =)
 - 📫 How to reach me: [Telegram](https://t.me/sanazarov), [Email](mailto:me@nazarovsa.com)
