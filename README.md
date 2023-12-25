@@ -5,7 +5,7 @@ I'm always open to collaboration, so feel free to text me. I'm interested in fin
 I'm trying to evolve my skills and always learning something new. My hobby is writing telegram bots, for instance [Noty](https://t.me/N8tyBot).  
 Currently, I'm leading team of dotnet engineers and teaching students at indoor programming school.  
 <h2 align="center">Mentorship</h2>
-I'm mentoring right now. You can find details in Russian at <a href="https://nazarovsa.notion.site/Backend-C-NET-4d1bba34fb6648c08c9963e104779666">notion</a>.
+I'm providing mentorship services. You can find details in Russian at <a href="https://nazarovsa.notion.site/Backend-C-NET-4d1bba34fb6648c08c9963e104779666">notion</a>.
 
 <h2 align="center">Facts</h2>
 
