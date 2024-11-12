@@ -5,7 +5,10 @@ I'm always open to collaboration, so feel free to text me. I'm interested in fin
 I'm trying to evolve my skills and always learning something new. My hobby is writing telegram bots, for instance [Flea](https://cutt.ly/Aewci2fj), [Noty](https://t.me/N8tyBot), [MyCbrBot](https://t.me/MyCbr_Bot).
 
 <h2 align="center">Mentorship</h2>
-You can find details in Russian <a href="https://cutt.ly/NeRbd0LJ">here</a>.
+You can find details in Russian <a href="https://cutt.ly/FeHMf1fy">here</a>.<br/>
+
+Also I'm developing free public materials for mastering dotnet development in <a href="https://github.com/nazarovsa-mentorship">nazarovsa-mentorship</a> organization.  
+It already includes <a href="https://github.com/nazarovsa-mentorship/aspnet-developer-interview-roadmap">roadmap</a> for dotnet interviews with usefull links and materials created by me.
 
 <h2 align="center">Facts</h2>
 
